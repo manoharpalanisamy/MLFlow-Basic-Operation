@@ -34,7 +34,7 @@ Elevate your MLFlow experience on AWS:
 #### 🚀 Setup
 - **AWS Console:** Log in and navigate to glory.
 - **IAM User:** Craft with AdministratorAccess.
-- **AWS CLI:** Set sail with \`bash aws configure \`.
+- **AWS CLI:** Set sail with `bash aws configure `.
 - **S3 Bucket:** Create your data treasure chest.
 - **EC2 Instance:** Launch Ubuntu and fortify with Security Groups for port 5000.
 
