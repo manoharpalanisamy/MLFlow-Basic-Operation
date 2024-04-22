@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/manohar/Documents/GitHub/mlflow-test/mlruns/0/f58e15bf12134b7e933fec16ba384f56/artifacts
+end_time: 1713766271792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f58e15bf12134b7e933fec16ba384f56
+run_name: suave-steed-336
+run_uuid: f58e15bf12134b7e933fec16ba384f56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713766269971
+status: 3
+tags: []
+user_id: manohar
